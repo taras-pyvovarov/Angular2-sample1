@@ -1,0 +1,27 @@
+{
+  "name": "angular2-sample1",
+  "version": "1.0.0",
+  "description": "Angular sample app",
+  "author": "Taras Pyvovarov",
+  "license": "ISC",
+  "repository" :{ 
+    "type" : "git", 
+    "url" : "https://{myurl}.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@angular/common": "*",
+    "@angular/compiler": "*",
+    "@angular/core": "*",
+    "@angular/platform-browser": "*",
+    "@angular/platform-browser-dynamic": "*",
+
+    "rxjs": "*",
+    "zone.js": "*"
+  },
+  "devDependencies": {
+    
+  }
+}
